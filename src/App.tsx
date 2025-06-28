@@ -1,9 +1,11 @@
-import MyRoutes from "./routes/MyRoutes";
 import "./index.css";
 function App() {
   return (
     <>
-      <MyRoutes />
+    Hii
+    <h1>Hello  This is me learning React 
+      
+    </h1>
     </>
   );
 }
